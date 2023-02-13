@@ -1,0 +1,13 @@
+<launch>
+
+<group ns="$(arg veh)">  
+
+    <node pkg="odometry_package" type="location_pub_sub_node.py" name="location_pub_sub_node"  output="screen"/>
+
+    <node pkg="odometry_package" type="moviment_planning_pub_sub_node.py" name="moviment_planning_pub_sub_node"  output="screen"/>
+
+  </group>
+
+</launch>
+
+
