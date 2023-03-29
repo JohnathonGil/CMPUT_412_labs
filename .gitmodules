@@ -7,3 +7,6 @@
 [submodule "Lab3"]
 	path = Lab3
 	url = https://github.com/marcus65001/c412e3
+[submodule "Lab4"]
+	path = Lab4
+	url = https://github.com/marcus65001/c412e4
