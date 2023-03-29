@@ -10,3 +10,6 @@
 [submodule "Lab4"]
 	path = Lab4
 	url = https://github.com/marcus65001/c412e4
+[submodule "Lab5"]
+	path = Lab5
+	url = https://github.com/marcus65001/c412e5
