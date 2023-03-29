@@ -4,3 +4,6 @@
 [submodule "Lab2"]
 	path = Lab2
 	url = https://github.com/JohnathonGil/ROS_DUCKIE_E2.git
+[submodule "Lab3"]
+	path = Lab3
+	url = https://github.com/marcus65001/c412e3
