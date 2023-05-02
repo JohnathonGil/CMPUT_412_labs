@@ -13,3 +13,6 @@
 [submodule "Lab5"]
 	path = Lab5
 	url = https://github.com/marcus65001/c412e5
+[submodule "Project/c412_final"]
+	path = Project/c412_final
+	url = git@github.com:marcus65001/c412_final.git
